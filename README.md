@@ -27,11 +27,3 @@ A modern, responsive personal portfolio and web showcase platform built with **N
 - **Styling:** Tailwind CSS, PostCSS
 - **Deployment:** Vercel
 
----
-
-## 🚀 Local Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Saidulhimu/saidul-dev.git](https://github.com/Saidulhimu/saidul-dev.git)
-   cd saidul-dev
