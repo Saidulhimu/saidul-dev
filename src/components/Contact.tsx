@@ -6,7 +6,7 @@ export function Contact() {
     { icon: Mail, label: 'Email', value: profile.email, href: `mailto:${profile.email}` },
     { icon: Phone, label: 'Phone', value: profile.phone, href: `tel:${profile.phoneTel}` },
     { icon: Github, label: 'GitHub', value: 'github.com/Saidulhimu', href: profile.github },
-    { icon: Linkedin, label: 'LinkedIn', value: 'in/md-saidul-islam-a6a942414', href: profile.linkedin },
+    { icon: Linkedin, label: 'LinkedIn', value: 'in/saidul-dev', href: profile.linkedin },
     { icon: MapPin, label: 'Location', value: profile.location, href: undefined },
   ];
 
